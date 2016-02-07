@@ -1,5 +1,7 @@
-﻿ファイルディスクリプション
+﻿重要ファイルのディスクリプション
 
-tcp_client/tcp_client.cs →　C＃基板のOnlineゲームPrototype通信関連一部 (Socket Stream形式)
+client_tcp/tcp_client.cs →　Socket Stream C＃基板のOnlineゲームPrototype通信関連一部
 
-server_actor/Act.h server_actor/Act.cpp →　C++基板のOnlineゲームPacket管理一部 (IOCP Model)
+server_iocp/Act.h server_actor/Act.cpp →　IOCP Model C++基板のOnlineゲームPacket管理コード
+
+client_unity (study)/MainThreads.cs →　server_iocp と通信用 Unityクライアント(学習用)
