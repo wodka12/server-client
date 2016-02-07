@@ -5,3 +5,5 @@ client_tcp/tcp_client.cs →　Socket Stream C＃基板のOnlineゲームPrototy
 server_iocp/Act.h server_actor/Act.cpp →　IOCP Model C++基板のOnlineゲームPacket管理コード
 
 client_unity (study)/MainThreads.cs →　server_iocp と通信用 Unityクライアント(学習用)
+
+screen shot/  →　起動画面
